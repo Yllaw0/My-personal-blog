@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+}
+
+.container{
+   position: relative;
+   height: 400px;
+}
+
+#question{
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+.username-text{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#username{
+  position: absolute;
+  left: 44.5%;
+}
+
+#title-text{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#title{
+    position: absolute;
+    left: 44.5%;
+}
+
+#content-text{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#content-box{
+    position: absolute;
+    left: 40.8%;
+  
+}
+
+#submit-button{
+    display: block;
+    margin-top: 10px;
+    background-color: black;
+    width: 200px;
+    height: 25px;
+    margin-left: 50px;
+    text-align: center;
+    position: absolute;
+    left: 40.5%;
+    margin-top: 75px;
+    color: white;
+}

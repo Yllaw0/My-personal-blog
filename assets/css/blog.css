@@ -1,0 +1,40 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+header{
+    border: 5px solid black;
+}
+
+h1{
+    position: relative;
+    font-size: 50px;
+    left: 7px;
+}
+
+/* footer content */
+
+footer{
+    border: 5px solid black;
+    margin: 7px 0px
+}
+
+footer ul li{
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline;
+} 
+
+.blog-post {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+}
